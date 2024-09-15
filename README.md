@@ -4,6 +4,7 @@ Reg. No: RA2411030010002<br />
 Name: Akash Datta<br />
 Year: 1st<br />
 A responsive portfolio website with my own details as example. This site supports mobile devices too.<br />
+https://shinyacash.github.io/RA2411030010002-NSCC-Submission-WebdevFrontend/ <br />
 
 # Desktop Screenshots
 
